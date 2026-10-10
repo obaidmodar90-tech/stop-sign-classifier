@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# data and generated files
+not_stopandstop/
+dataset/
+*.zip
+*.jpeg
+*.jpg
+model.pt
+
+# keep README images
+!docs/*
+/training_curves.png
