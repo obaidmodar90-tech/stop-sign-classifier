@@ -74,6 +74,3 @@ python src/predict.py path/to/image.jpg
 
 The dataset (labeled stop / not-stop images with an `_annotations.json` file) is provided by the course and is downloaded by `src/prepare_data.py`. It is not stored in this repository.
 
-## License
-
-MIT (or choose the license you prefer).
